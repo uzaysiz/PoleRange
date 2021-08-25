@@ -1,0 +1,11 @@
+{
+    "name": "PoleRange",
+    "version": "0.2.1",
+    "title": "Pole Range",
+    "author": "uzayli",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "1.1.2",
+    "dependencies": ["base >= 0.16"],
+    "description": "Increases electric poles range and wire distance"
+}
